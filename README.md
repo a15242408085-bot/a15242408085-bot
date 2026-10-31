@@ -6,11 +6,11 @@ AI 产品经理 / Builder，关注 Agent、产品工作流和可运行的交互�
 
 ## 个人作品集
 
-[![YANG · 个人作品集预览](https://raw.githubusercontent.com/a15242408085-bot/yang-personal-workstation/main/preview.png)](https://a15242408085-bot.github.io/yang-personal-workstation/)
+[![YANG · 个人作品集预览](https://raw.githubusercontent.com/a15242408085-bot/yang-personal-workstation/main/portfolio-preview.png)](https://shawn-yang-ai-portfolio.briskthyme.chatgpt.site/)
 
-**[▶ 在线预览](https://a15242408085-bot.github.io/yang-personal-workstation/)** · [查看项目源码](https://github.com/a15242408085-bot/yang-personal-workstation)
+**[▶ 在线预览](https://shawn-yang-ai-portfolio.briskthyme.chatgpt.site/)** · [查看项目源码](https://github.com/a15242408085-bot/yang-personal-workstation)
 
-产品思考、体验设计与交互原型的个人展示站。
+AI 产品案例、企业级 Agent、工业场景与交互原型的个人展示站。
 
 ## Featured projects
 
